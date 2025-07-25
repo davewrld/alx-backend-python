@@ -2,7 +2,8 @@
 from typing import List
 """
     Type annoteted function
-    takes a list
+    takes a list of floats  and returns their
+    sum as floats
 """
 
 
