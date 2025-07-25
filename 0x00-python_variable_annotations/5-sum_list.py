@@ -8,7 +8,8 @@ from typing import List
 
 def sum_list(input_list: List[float]) -> float:
     """
-    Returns: sum list
+    Args: floats of list
+    Returns: sum  of floats
     """
 
     return sum(input_list)
